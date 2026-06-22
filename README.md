@@ -10,6 +10,9 @@ The final model was trained using Logistic Regression and deployed using Streaml
 
 ---
 
+## 🌐Live Demo
+https://heart-disease-risk-predictor-2cu8q5vmjabnffpc559dt5.streamlit.app/
+
 ## 🚀 Features
 
 * Data Cleaning and Preprocessing
